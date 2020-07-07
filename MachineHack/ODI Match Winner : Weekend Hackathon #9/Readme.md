@@ -12,6 +12,6 @@ Given are 10 distinguishing factors that can influence the outcome of a cricket 
 
 ## Leaderboard
 
-* Rank: 43
+* Rank: 42
 * Public Score: 0.65823
 * Private Score: 0.65195
